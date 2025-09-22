@@ -1,1 +1,1 @@
-practice algorithm
+practicing algorithm
